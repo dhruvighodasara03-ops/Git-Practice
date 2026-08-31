@@ -20,5 +20,3 @@ Conflict practice from branch A.
 This change is from the abort-practice branch.
 
 This change is from the main branch.
-
-This commit will be reverted.
