@@ -13,3 +13,5 @@ I am practicing Git branches for QA.
 Created New Branch For The Login-Test-Practice.
 
 Learning Git status.
+
+Conflict practice from main branch.
