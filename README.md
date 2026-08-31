@@ -11,3 +11,5 @@ This is my practice for Git fetch.
 I am practicing Git branches for QA.
 
 Created New Branch For The Login-Test-Practice.
+
+Learning Git status.
